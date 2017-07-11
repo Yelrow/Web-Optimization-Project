@@ -17,5 +17,7 @@
 * Inlined style.css into the HTML header
 * Reduced the size of the pizzeria image
 
-You can view the project at 
+You can view the project at https://yelrow.github.io/Web-Optimization-Project/index.html
+
+You can view the optimized pizzeria page at https://yelrow.github.io/Web-Optimization-Project/views/pizza.html
 
